@@ -1,0 +1,10 @@
+[
+  {"order_id": "ORD-1001", "customer_name": "Amara O.", "status": "shipped", "order_date": "2026-10-01", "items": [{"sku": "CAB-001", "quantity": 10}, {"sku": "CHG-001", "quantity": 2}], "total_amount": 69.00, "currency": "USD"},
+  {"order_id": "ORD-1002", "customer_name": "Tunde A.", "status": "processing", "order_date": "2026-10-03", "items": [{"sku": "KEY-001", "quantity": 3}], "total_amount": 63.00, "currency": "USD"},
+  {"order_id": "ORD-1003", "customer_name": "Chidi N.", "status": "delivered", "order_date": "2026-09-22", "items": [{"sku": "AUD-001", "quantity": 20}], "total_amount": 79.80, "currency": "USD"},
+  {"order_id": "ORD-1004", "customer_name": "Zainab M.", "status": "backordered", "order_date": "2026-10-05", "items": [{"sku": "PWR-001", "quantity": 5}], "total_amount": 124.95, "currency": "USD"},
+  {"order_id": "ORD-1005", "customer_name": "Kofi B.", "status": "cancelled", "order_date": "2026-09-28", "items": [{"sku": "MOU-001", "quantity": 4}, {"sku": "KEY-001", "quantity": 4}], "total_amount": 123.00, "currency": "USD"},
+  {"order_id": "ORD-1006", "customer_name": "Lola F.", "status": "processing", "order_date": "2026-10-10", "items": [{"sku": "STO-001", "quantity": 25}], "total_amount": 160.00, "currency": "USD"},
+  {"order_id": "ORD-1007", "customer_name": "Emeka I.", "status": "shipped", "order_date": "2026-10-08", "items": [{"sku": "AUD-002", "quantity": 2}, {"sku": "CAB-002", "quantity": 2}], "total_amount": 53.50, "currency": "USD"},
+  {"order_id": "ORD-1008", "customer_name": "Sade K.", "status": "delivered", "order_date": "2026-09-15", "items": [{"sku": "STO-002", "quantity": 6}], "total_amount": 67.20, "currency": "USD"}
+]

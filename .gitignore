@@ -1,0 +1,39 @@
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Runtime output
+logs/
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Future training artifacts (Stage 5+): keep large files out of git
+checkpoints/
+outputs/
+adapters/
+*.safetensors
+*.bin
+*.pt
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

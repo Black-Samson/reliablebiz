@@ -1,0 +1,12 @@
+[
+  {"sku": "CAB-001", "name": "USB-C Cable 1m", "quantity": 120, "unit_price": 4.50, "reorder_level": 40, "location": "Shelf A1"},
+  {"sku": "CAB-002", "name": "HDMI Cable 2m", "quantity": 18, "unit_price": 7.25, "reorder_level": 25, "location": "Shelf A2"},
+  {"sku": "CHG-001", "name": "Wall Charger 20W", "quantity": 64, "unit_price": 12.00, "reorder_level": 30, "location": "Shelf B1"},
+  {"sku": "PWR-001", "name": "Power Bank 10000mAh", "quantity": 0, "unit_price": 24.99, "reorder_level": 15, "location": "Shelf B2"},
+  {"sku": "AUD-001", "name": "Wired Earbuds", "quantity": 210, "unit_price": 3.99, "reorder_level": 50, "location": "Shelf C1"},
+  {"sku": "AUD-002", "name": "Bluetooth Speaker Mini", "quantity": 12, "unit_price": 19.50, "reorder_level": 10, "location": "Shelf C2"},
+  {"sku": "KEY-001", "name": "Wireless Keyboard", "quantity": 35, "unit_price": 21.00, "reorder_level": 20, "location": "Shelf D1"},
+  {"sku": "MOU-001", "name": "Wireless Mouse", "quantity": 8, "unit_price": 9.75, "reorder_level": 20, "location": "Shelf D2"},
+  {"sku": "STO-001", "name": "USB Flash Drive 32GB", "quantity": 150, "unit_price": 6.40, "reorder_level": 40, "location": "Shelf E1"},
+  {"sku": "STO-002", "name": "SD Card 64GB", "quantity": 0, "unit_price": 11.20, "reorder_level": 20, "location": "Shelf E2"}
+]

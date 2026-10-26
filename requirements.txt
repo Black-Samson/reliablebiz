@@ -1,0 +1,5 @@
+# Runtime dependencies for the Stage 1 demo (no paid API key needed).
+# Ranges were tested against: streamlit 1.66.1, pydantic 2.14.1, python-dotenv 1.2.4.
+streamlit>=1.35,<2
+pydantic>=2.6,<3
+python-dotenv>=1.0,<2
